@@ -1,0 +1,1 @@
+Colton Kipp: {'Neuroticism': 4, 'Openness': 4, 'Conscientiousness': 3, 'Extraversion': 2, 'Agreeableness': 2}
