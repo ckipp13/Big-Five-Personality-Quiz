@@ -52,9 +52,7 @@ The program prompts the user to input:
 
 🧠 Users then answer **50 questions**, with **10 questions per personality trait**, using a scale from **1 (Strongly Disagree)** to **5 (Strongly Agree)**.
 
-🚫 If the input is not between 1–5, the user is asked to re-enter their response. After 5 invalid attempts, the program displays:
-
-> _"Clearly you don't pay attention to details."_
+🚫 If the input is not between 1–5, the user is asked to re-enter their response.
 
 ---
 
