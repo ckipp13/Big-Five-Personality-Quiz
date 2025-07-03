@@ -40,6 +40,57 @@ The project reflects foundational concepts in Python programming, data handling,
 
 python BigFiveQuiz.py
 
+## 📝 How It Works
+
+The program prompts the user to input:
+
+- 👤 **Name** (`str`)  
+- 🎂 **Age** (`int`)  
+- ⚧️ **Gender** (`str`)  
+
+---
+
+🧠 Users then answer **50 questions**, with **10 questions per personality trait**, using a scale from **1 (Strongly Disagree)** to **5 (Strongly Agree)**.
+
+🚫 If the input is not between 1–5, the user is asked to re-enter their response. After 5 invalid attempts, the program displays:
+
+> _"Clearly you don't pay attention to details."_
+
+---
+
+After completing the quiz:
+
+- 📊 **Bar graphs** show response distributions for each trait  
+- 🥧 **Pie chart** visualizes overall trait percentages  
+- 🗂️ **Results are saved** to `bigfive_output.txt`
+
+---
+
+## ✨ Features
+
+- ✅ Terminal-based interactive quiz  
+- ✅ Input validation with custom error messages  
+- ✅ Bar and pie chart visualizations using `matplotlib`  
+- ✅ Object-Oriented design patterns and reusable methods  
+- ✅ Auto-save of user results to a local file
+
+---
+
+## 🛠️ Technologies Used
+
+- 🐍 Python 3  
+- 🗃️ `json` for storing question data  
+- 📊 `matplotlib` for data visualization  
+- 🧱 Object-Oriented Programming principles (classes, methods, magic methods)  
+
+---
+
+## ⚠️ Disclaimer
+
+This project was created for **educational purposes** and is **not** a clinically validated personality assessment tool.
+
+---
+
 ## Attributions Table:
 
 
