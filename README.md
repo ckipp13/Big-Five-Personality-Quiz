@@ -1,9 +1,9 @@
 # BigFiveQuiz
 Big Five Personality Quiz for Object-Oriented Programming Class
 
-##Overview:
+## Overview:
 
-##Process:
+## Process:
 
 ## Instructions: 
 When you open a terminal you have to type in " python BigFiveQuiz.py " then the 
